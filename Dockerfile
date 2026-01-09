@@ -1,6 +1,6 @@
 FROM debian:trixie-slim
 
-LABEL author="athar" maintainer="athar@atharr.my.id"
+LABEL author="sadiwa" maintainer="sadiwa.idn@gmail.com"
 
 ENV DEBIAN_FRONTEND=noninteractive \
     USER=container \
